@@ -1,6 +1,6 @@
 var sales = require("./car-sales");
 
-test("Car sales", function() {
+test("Car sales", function () {
   var carsSold = [
     { make: "Ford", model: "Fiesta", colour: "Red", price: 5999 },
     { make: "Land Rover", model: "Defender", colour: "Muddy", price: 12000 },
